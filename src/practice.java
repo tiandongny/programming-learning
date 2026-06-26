@@ -1,3 +1,4 @@
+/*
 public class practice {
      public static int func(int x, int y){
          return x+y;
@@ -8,3 +9,4 @@ public class practice {
          index++;
     }
 }
+*/
