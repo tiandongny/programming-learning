@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 
 public class codeforces231A {
@@ -20,3 +21,4 @@ public class codeforces231A {
         System.out.println(numSolutions);
     }
 }
+*/
