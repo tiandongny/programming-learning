@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 
 public class codeforces467a {
@@ -16,3 +17,4 @@ public class codeforces467a {
         System.out.println(numRoomsAvailable);
     }
 }
+*/
