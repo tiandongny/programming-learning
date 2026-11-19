@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 
 public class codeforces1A {
@@ -12,3 +13,4 @@ public class codeforces1A {
 
     }
 }
+*/
